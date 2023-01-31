@@ -4,7 +4,7 @@ stages:
     cmd: python test.py > out.txt
     outs:
     - path: metrics.json
-      md5: e5f4957673dc0b55d1bf8a8581a167b9
+      md5: a8b4f38ff394902388eda1193bccfa64
       size: 12
     - path: out.txt
       md5: 1ff502cb4c9dc936ed43242b88fdd973
