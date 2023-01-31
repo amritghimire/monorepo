@@ -1,0 +1,11 @@
+schema: '2.0'
+stages:
+  test:
+    cmd: python test.py > out.txt
+    outs:
+    - path: metrics.json
+      md5: e5f4957673dc0b55d1bf8a8581a167b9
+      size: 12
+    - path: out.txt
+      md5: 1ff502cb4c9dc936ed43242b88fdd973
+      size: 6
