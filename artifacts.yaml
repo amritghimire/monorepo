@@ -1,3 +1,6 @@
 monorepo-1:
   path: out.txt
   type: model
+test:
+  path: model.my
+  type: model
