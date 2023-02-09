@@ -4,3 +4,6 @@ monorepo-1:
 test:
   path: model.my
   type: model
+test-path:
+  path: test_path
+  type: model
